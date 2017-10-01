@@ -102,3 +102,4 @@ ENV/
 
 #jupter notebook checkpoints
 .ipynb_checkpoints
+dbconnect
